@@ -1,7 +1,7 @@
 # HackBio Biocoding Internship : Stage Zero
 
 ## Description
-This repository has the code for the Stage Zero task the Internship.
+This repository has the code in python for the Stage Zero task of the Internship.
 
 ## Task
 The task required me to write a Python script printing my name, Slack username, email, hobbies, country, discipline, and preferred programming language.
