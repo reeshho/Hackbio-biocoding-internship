@@ -5,13 +5,14 @@ Welcome to my **Stage 0** submission for the **HackBio Biocoding Internship**! T
 
 ## Task Description  
 For **Stage 0**, we were required to write a Python script that prints:  
-✅ Names of the team members  
-✅ Their Slack Usernames
-✅ Their Email Ids
-✅ Their Hobbies  
-✅ Their Countries
-✅ Their Disciplines 
-✅ Preferred Programming Language  
+
+✅ **Names of the team members.**  
+✅ **Their Slack Usernames.**  
+✅ **Their Email Ids.**  
+✅ **Their Hobbies.**  
+✅ **Their Countries.**  
+✅ **Their Disciplines.**  
+✅ **Preferred Programming Language.**
 
 ## Steps Followed  
 1️⃣ **Set up the script** – Created a new Python file `stage_zero.py`.  
