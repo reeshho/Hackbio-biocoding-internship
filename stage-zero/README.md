@@ -2,6 +2,7 @@
 
 ## Objective
 This task involved using the data structure of either R or Python to create a simple scripts in order to organise the names, slack usernames, emails, hobbies, countries, disciplines, and preferred programming languages of all the members in my team. As per the instructions given, this script excludes the use of functions, loops, conditionals, and complex concepts.
+
 Therefore, this repository contains a Python script which organises the details of team members of the **Team Alanine** in the HackBio internship (Coding for Bio) in a systematic manner. 
 
 ## Task Description  
