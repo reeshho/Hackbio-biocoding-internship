@@ -39,56 +39,70 @@ programming_language = "Python"
 
 # Details of my other teammates
  Names = [
-  "Ncumisa Madolo",
-  "Chelson Boakye" ,
-  "Emanueal Osei-Frempong" ,
-  "Ayiti",
-  "Priyanjali Chowdhury"
+    "Ncumisa Madolo",
+    "Chelson Boakye",
+    "Emanueal Osei-Frempong",
+    "Ayiti",
+    "Priyanjali Chowdhury"
 ]
 Slack_names = [
-  "Ncumisa",
-  "Chelson",
-  "Emanueal",
-  "Ayiti",
-  "Priyanjali"
+    "Ncumisa",
+    "Chelson",
+    "Emanueal",
+    "Ayiti",
+    "Priyanjali"
 ]
 Email = [
-  "ncumisam00@gmail.com" ,
-  "boakyechelson@gmail.com" ,
-  "eosei-frempong@tamu.edu" ,
-  "ayitikola@yahoo.com" ,
-  "priyanjali150803@gmail.com"
+    "ncumisam00@gmail.com",
+    "boakyechelson@gmail.com",
+    "eosei-frempong@tamu.edu",
+    "ayitikola@yahoo.com",
+    "priyanjali150803@gmail.com"
 ]
 Hobbies = [
-  "Listening to music",
-  "Travelling" ,
-  "Tennis" ,
-  "Fixing things" ,
-  "Watching movies"
+    "Listening to music",
+    "Travelling",
+    "Tennis",
+    "Fixing things",
+    "Watching movies"
 ]
 Countries = [
-  "South Africa" ,
-  "Ghana" ,
-  "Nigeria" ,
-  "Nigeria" ,
-  "India"
+    "South Africa",
+    "Ghana",
+    "Nigeria",
+    "Nigeria",
+    "India"
 ]
 Disciplines = [
-  "Neuroscience" ,
-  "Biochemistry" ,
-  "Biology" ,
-  "Biochemistry" ,
-  "Bioinformatics"
+    "Neuroscience",
+    "Biochemistry",
+    "Biology",
+    "Biochemistry",
+    "Bioinformatics"
 ]
 programming_language = [
-  "Python" ,
-  "Python" ,
-  "Python" ,
-  "R" ,
-  "Python"
+    "Python",
+    "Python",
+    "Python",
+    "R",
+    "Python"
 ]
-txt = f'Alanine-2 group members names {Names}, and our Slack usernames {Slack_names}.You can email us on {Email}. Our Hobbies include {Hobbies}. We have a diverse group with members coming from {Countries}, with disciplines in {Disciplines}. Our preferred programming lanuages are {programming_language}'
+
+# Format output with line breaks
+txt = f"""
+Alanine-2 Group Members:
+- Names: {", ".join(Names)}
+- Slack Usernames: {", ".join(Slack_names)}
+- Emails: {", ".join(Email)}
+- Hobbies: {", ".join(Hobbies)}
+- Countries: {", ".join(Countries)}
+- Disciplines: {", ".join(Disciplines)}
+- Preferred Programming Languages: {", ".join(programming_language)}
+"""
+
 print(txt)
+
+
 
 ---
 ```
