@@ -114,4 +114,4 @@ print(txt)
 | 2   | Kolawole Stephen Ayiti  [GitHub](https://github.com/ifoundmercy/HackBio)                     |
 | 3   | Ncumisa Madolo [GitHub](https://github.com/ncumi-m/Hackbio-Internship/tree/main)             |
 | 4   | Emmanuel Osei-Frempong              |
-| 5   | Chelson Osei Mensah Boakye    |
+| 5   | Chelson Osei Mensah Boakye [GitHub](https://github.com/FatherAbraham8/Hackbio-Internship/commit/9d5006d59f4fb6ef043f29f3a73996b11bafab9e)   |
