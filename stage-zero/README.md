@@ -29,13 +29,13 @@ Here's the Python script I wrote introducing myself and my other teammates:
 # Stage 0 Task - HackBio Biocoding Internship
 
 # Defining my details
-name = "Priyanjali Chowdhury"
-slack_username = "Priyanjali"
-email = "priyanjali150803@gmail.com"
-hobbies = "Listening to music"
-country = "India"
-discipline = "Bioinformatics"
-programming_language = "Python"
+# name = "Priyanjali Chowdhury"
+# slack_username = "Priyanjali"
+# email = "priyanjali150803@gmail.com"
+# hobbies = "Listening to music"
+# country = "India"
+# discipline = "Bioinformatics"
+# programming_language = "Python" 
 
 # Details of my other teammates
  Names = [
@@ -104,7 +104,7 @@ print(txt)
 
 
 
----
+
 ```
 
 ## Contributors
