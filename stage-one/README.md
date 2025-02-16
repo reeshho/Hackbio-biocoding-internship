@@ -92,8 +92,8 @@ print("Time to reach 80% of carrying capacity:", times_to_80)
 
 ```python
 # Example usernames
-slack_username = "@Arpit"
-twitter_handle = "@ArpitSharma1010"
+slack_username = "@Priyanjali"
+twitter_handle = "@reesho"
 
 # Compute Hamming distance
 distance = hamming_distance(slack_username, twitter_handle)
@@ -104,7 +104,7 @@ print("Hamming Distance:", distance)
 ## Sample Output
 
 ```
-Protein Sequence: MAIVMGR*GCCRE
+Protein Sequence: MAIVMGR
 First 10 Rows of Growth Data:
 ['time', 'curve_1', 'curve_2', 'curve_3', 'curve_4', 'curve_5']
 [0, 0.2, 0.3, 0.4, 0.5, 0.6]
@@ -113,7 +113,8 @@ Time to reach 80% of carrying capacity for each curve:
 Curve 1: 50 time steps
 Curve 2: 52 time steps
 ...
-Hamming Distance: 6
+Hamming Distance: 7
+
 ```
 
 ---
