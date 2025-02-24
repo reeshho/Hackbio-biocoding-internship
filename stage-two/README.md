@@ -28,12 +28,12 @@ This section focuses on how mutations affect protein structure and function:
 - Creating **bar plots and pie charts** to visualize amino acid mutation frequencies.
 - Discussing the biological significance of highly mutated residues.
 
-## 📌 Key Takeaways
+## Key Takeaways
 - Growth analysis helps us understand how genetic modifications impact bacterial growth.
 - Metabolic shifts reveal how mutant plants adapt to pesticides.
 - Protein mutation studies highlight which amino acids are most critical for structure and function.
 
-## 🛠 Tools & Libraries Used
+## Tools & Libraries Used
 - **Pandas** for data handling
 - **Matplotlib & Seaborn** for visualization
 - **Scipy & Statsmodels** for statistical analysis
